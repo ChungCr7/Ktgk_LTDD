@@ -1,5 +1,5 @@
 {
-  "name": "fellow4U_project",
+  "name": "baochung_st22a",
   "version": "1.0.0",
   "description": "Node.js project to manage tours with MySQL",
   "main": "app.js",
@@ -11,7 +11,7 @@
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
     "express": "^4.21.1",
-    "fellow4U_project": "file:",
+    "baochung_st22a": "file:",
     "mongodb": "^6.10.0",
     "mongoose": "^8.8.1",
     "mysql2": "^3.2.0",
